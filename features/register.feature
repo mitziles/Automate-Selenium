@@ -6,5 +6,5 @@ Feature: User Register
         Then Register succesful
 
         Examples:
-            | email                       | password         |
-            | alinpopovoilescu@gmail.com  | Abcd1234&*       |
+            | email                | password           |
+            | Input credentials    | Input credentials  |
